@@ -101,6 +101,5 @@ http://localhost:5173
 
 ## Author
 
-Divya Sharma
-
-B.Tech Computer Science Engineering
+Divyani Patel
+[B.Tech Computer Science Engineering]
